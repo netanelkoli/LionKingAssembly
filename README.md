@@ -17,4 +17,4 @@ Fell free to comment, fork, start, etc.
 --
 
 # Enjoy !
-![Demo](ezgif.com-optimize.gif)
+![Demo](docs/ezgif.com-optimize.gif)
