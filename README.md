@@ -14,4 +14,7 @@ Fell free to comment, fork, start, etc.
 - Mac: `brew install dosbox`
 - Run the .exe file using `dosbox SIMBA.EXE`
 
-Enjoy !
+--
+
+# Enjoy !
+![Demo](ezgif.com-optimize.gif)
